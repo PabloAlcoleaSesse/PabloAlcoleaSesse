@@ -13,12 +13,30 @@
 <table>
   <tr>
     <td>
+      <h3><a href="https://github.com/PabloAlcoleaSesse/PA-26004-1">Music Library Bridge ↗</a></h3>
+      <p>A Go platform for connecting Spotify and Apple Music, importing ordered playlist snapshots, and eventually transferring playlists between services.</p>
+      <p><code>Go</code> &nbsp; <code>PostgreSQL</code> &nbsp; <code>River</code> &nbsp; <code>OAuth PKCE</code> &nbsp; <code>MusicKit</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td>
       <h3><a href="https://github.com/PabloAlcoleaSesse/PA-26003-1">Stock Screening and Outcome Tracking ↗</a></h3>
       <p>Screens US equities using fundamental and technical criteria, records screening runs, and tracks subsequent outcomes against SPY.</p>
       <p><code>Python</code> &nbsp; <code>PostgreSQL</code> &nbsp; <code>pandas</code> &nbsp; <code>yfinance</code> &nbsp; <code>Docker</code></p>
     </td>
   </tr>
 </table>
+
+<br />
+
+## 🎧 Building now
+
+I am building a music data layer that lets people keep their libraries connected across services. The first milestone is deliberately practical: connect accounts, import playlists safely, preserve ordering and duplicates, and make transfers explain exactly which tracks matched or need attention.
+
+<p>
+  <a href="https://github.com/PabloAlcoleaSesse/PA-26004-1/actions"><img src="https://img.shields.io/github/actions/workflow/status/PabloAlcoleaSesse/PA-26004-1/ci.yml?branch=main&style=flat-square&label=CI" alt="CI status" /></a>
+  <a href="https://github.com/PabloAlcoleaSesse/PA-26004-1"><img src="https://img.shields.io/github/last-commit/PabloAlcoleaSesse/PA-26004-1?style=flat-square&label=updated" alt="Last commit" /></a>
+</p>
 
 <br />
 
