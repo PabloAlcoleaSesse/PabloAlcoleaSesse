@@ -2,10 +2,7 @@
   <img src="assets/profile-header.svg" width="100%" alt="Pablo Alcolea Sesse — Computer Science student · Software development · Madrid, Spain" />
 </p>
 
-<p align="center">
-  <strong>Software development · backend systems · data products · homelab experiments</strong><br />
-  I build practical software that connects clean interfaces to reliable systems underneath.
-</p>
+<p align="center"><strong>Computer Science student in Madrid · builder of practical software</strong></p>
 
 <p align="center">
   <a href="https://github.com/PabloAlcoleaSesse/PA-26004-1/actions"><img src="https://img.shields.io/github/actions/workflow/status/PabloAlcoleaSesse/PA-26004-1/ci.yml?branch=main&style=for-the-badge&label=CI" alt="CI status" /></a>
@@ -15,12 +12,12 @@
 
 <br />
 
-## ⚡ Featured work
+## ✦ Featured work
 
 <table>
   <tr>
     <td width="58%">
-      <h3>🎧 <a href="https://github.com/PabloAlcoleaSesse/PA-26004-1">Music Library Bridge ↗</a></h3>
+      <h3>🎧 <a href="https://github.com/PabloAlcoleaSesse/PA-26004-1">PA-26004-1 · Music Library Bridge ↗</a></h3>
       <p>Connect Spotify and Apple Music, preserve ordered playlist snapshots, and build toward safe cross-service transfers.</p>
       <p><code>Go</code> <code>PostgreSQL</code> <code>River</code> <code>OAuth PKCE</code> <code>MusicKit</code></p>
       <a href="https://github.com/PabloAlcoleaSesse/PA-26004-1">View project →</a>
@@ -36,7 +33,7 @@
 
 <br />
 
-## 🧭 What I enjoy building
+## ◈ Areas I work in
 
 <table>
   <tr>
@@ -48,7 +45,7 @@
 
 <br />
 
-## 🛠️ Toolbox
+## ⌘ Toolbox
 
 | Area | Focus |
 | :--- | :--- |
@@ -61,7 +58,7 @@
 
 ---
 
-<h3 align="center">Let’s connect</h3>
+<h3 align="center">Say hello</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/pablo-alcolea-sess%C3%A9-a672a2338/"><strong>LinkedIn ↗</strong></a>
   &nbsp; · &nbsp;
