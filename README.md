@@ -16,13 +16,21 @@
 
 <table>
   <tr>
-    <td width="58%">
+    <td width="50%">
+      <h3>⚡ <a href="https://github.com/PabloAlcoleaSesse/ainline">ainline · AI Provider CLI ↗</a></h3>
+      <p>Direct AI provider CLI with project context, rules, tasks, and profiles. Integrates Claude, Codex, Copilot, Antigravity, and Ollama.</p>
+      <p><code>Rust</code> <code>CLI</code> <code>Async/Pipes</code> <code>AI Tooling</code></p>
+      <a href="https://github.com/PabloAlcoleaSesse/ainline">View project →</a>
+    </td>
+    <td width="50%">
       <h3>🎧 <a href="https://github.com/PabloAlcoleaSesse/PA-26004-1">PA-26004-1 · Music Library Bridge ↗</a></h3>
       <p>Connect Spotify and Apple Music, preserve ordered playlist snapshots, and build toward safe cross-service transfers.</p>
       <p><code>Go</code> <code>PostgreSQL</code> <code>River</code> <code>OAuth PKCE</code> <code>MusicKit</code></p>
       <a href="https://github.com/PabloAlcoleaSesse/PA-26004-1">View project →</a>
     </td>
-    <td width="42%">
+  </tr>
+  <tr>
+    <td colspan="2">
       <h3>📈 <a href="https://github.com/PabloAlcoleaSesse/PA-26003-1">Stock Screening ↗</a></h3>
       <p>Fundamental and technical screening with outcome tracking against SPY.</p>
       <p><code>Python</code> <code>PostgreSQL</code> <code>pandas</code> <code>Docker</code></p>
@@ -49,7 +57,7 @@
 
 | Area | Focus |
 | :--- | :--- |
-| **Languages** | Go · Python · Java · C/C++ · Swift |
+| **Languages** | Rust · Go · Python · Java · C/C++ · Swift |
 | **Backend** | PostgreSQL · REST APIs · OAuth · background jobs |
 | **Infrastructure** | Docker · Linux · networking · homelab |
 | **Data** | pandas · financial data · experimentation · analytics |
