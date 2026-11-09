@@ -4,12 +4,6 @@
 
 <p align="center"><strong>Computer Science student in Madrid · builder of practical software</strong></p>
 
-<p align="center">
-  <a href="https://github.com/PabloAlcoleaSesse/PA-26004-1/actions"><img src="https://img.shields.io/github/actions/workflow/status/PabloAlcoleaSesse/PA-26004-1/ci.yml?branch=main&style=for-the-badge&label=CI" alt="CI status" /></a>
-  <a href="https://github.com/PabloAlcoleaSesse/PA-26004-1"><img src="https://img.shields.io/github/last-commit/PabloAlcoleaSesse/PA-26004-1?style=for-the-badge&label=latest%20project" alt="Latest project update" /></a>
-  <a href="https://github.com/PabloAlcoleaSesse?tab=repositories"><img src="https://img.shields.io/badge/Repositories-explore-24292f?style=for-the-badge" alt="Explore repositories" /></a>
-</p>
-
 <br />
 
 ## ✦ Featured work
@@ -17,24 +11,30 @@
 <table>
   <tr>
     <td width="50%">
-      <h3>⚡ <a href="https://github.com/PabloAlcoleaSesse/ainline">ainline · AI Provider CLI ↗</a></h3>
-      <p>Direct AI provider CLI with project context, rules, tasks, and profiles. Integrates Claude, Codex, Copilot, Antigravity, and Ollama.</p>
-      <p><code>Rust</code> <code>CLI</code> <code>Async/Pipes</code> <code>AI Tooling</code></p>
-      <a href="https://github.com/PabloAlcoleaSesse/ainline">View project →</a>
+      <h3><a href="https://github.com/PabloAlcoleaSesse/aseprite-ai-mcp">aseprite-mcp ↗</a></h3>
+      <p>MCP server and Aseprite Lua extension for live AI pixel-art creation and editing.</p>
+      <p><code>MCP</code> <code>Lua</code> <code>Aseprite</code> <code>AI Tooling</code></p>
+      <a href="https://github.com/PabloAlcoleaSesse/aseprite-ai-mcp">View project →</a>
     </td>
     <td width="50%">
-      <h3>🎧 <a href="https://github.com/PabloAlcoleaSesse/PA-26004-1">PA-26004-1 · Music Library Bridge ↗</a></h3>
-      <p>Connect Spotify and Apple Music, preserve ordered playlist snapshots, and build toward safe cross-service transfers.</p>
-      <p><code>Go</code> <code>PostgreSQL</code> <code>River</code> <code>OAuth PKCE</code> <code>MusicKit</code></p>
-      <a href="https://github.com/PabloAlcoleaSesse/PA-26004-1">View project →</a>
+      <h3><a href="https://github.com/PabloAlcoleaSesse/homelab">homelab ↗</a></h3>
+      <p>Documentation of my personal homelab server, self-hosted services, networking, and maintenance.</p>
+      <p><code>Linux</code> <code>Docker</code> <code>Networking</code> <code>Self-hosting</code></p>
+      <a href="https://github.com/PabloAlcoleaSesse/homelab">View project →</a>
     </td>
   </tr>
   <tr>
-    <td colspan="2">
-      <h3>📈 <a href="https://github.com/PabloAlcoleaSesse/PA-26003-1">Stock Screening ↗</a></h3>
+    <td width="50%">
+      <h3><a href="https://github.com/PabloAlcoleaSesse/PA-26003-1">PA-26003-1 · Stock Screening ↗</a></h3>
       <p>Fundamental and technical screening with outcome tracking against SPY.</p>
       <p><code>Python</code> <code>PostgreSQL</code> <code>pandas</code> <code>Docker</code></p>
       <a href="https://github.com/PabloAlcoleaSesse/PA-26003-1">View project →</a>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/PabloAlcoleaSesse/WWIII">WWIII ↗</a></h3>
+      <p>Personal project.</p>
+      <p></p>
+      <a href="https://github.com/PabloAlcoleaSesse/WWIII">View project →</a>
     </td>
   </tr>
 </table>
